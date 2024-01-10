@@ -8,6 +8,7 @@
 		"sourceType": "module"
 	},
 	"rules": {
+		"find-payments": "error",
 		"no-restricted-imports": ["error", "underscore"],
 		"eqeqeq": "error",
 		"no-console": "error",
